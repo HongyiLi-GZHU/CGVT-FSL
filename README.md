@@ -1,2 +1,2 @@
-# TAFSL
-Text-Aware Few-Shot Learning for Cross-Domain Hyperspectral Image Classification
+# Text-Aware Few-Shot Learning for Cross-Domain Hyperspectral Image Classification
+
