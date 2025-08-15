@@ -1,4 +1,4 @@
-# Text-Aware Few-Shot Learning for Cross-Domain Hyperspectral Image Classification
+# TAFSL：Text-Aware Few-Shot Learning for Cross-Domain Hyperspectral Image Classification
 
 Thank you for your interest in the code related to our paper, "Text-Aware Few-Shot Learning for Cross-Domain Hyperspectral Image Classification".
 
